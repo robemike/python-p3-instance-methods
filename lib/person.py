@@ -10,3 +10,9 @@ class Person:
 
     #Instance method definition
     pass
+
+person = Person()
+
+person.talk()
+
+person.walk()
